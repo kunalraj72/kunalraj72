@@ -35,8 +35,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/kunnu72">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunnu72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/kunalraj72">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
   
 </p>
@@ -60,5 +60,5 @@
 
 [X]: https://x.com/LotusQuasar
 [linkedin]: https://www.linkedin.com/in/kunal-raj-87142b203/
-[github]: https://github.com/Kunnu72
+[github]: https://github.com/kunalraj72
 [gmail]:mailto:kunalrajraj36@gmail.com
