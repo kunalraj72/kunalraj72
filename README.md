@@ -1,5 +1,7 @@
 # Hi 👋, I'm Kunal Raj  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalraj72&label=Profile%77views&color=0e75b6&style=flat" alt="yburada" /> </p>
+
 🚀 Software Engineer | Backend Developer | Microservices | Cloud Enthusiast  
 
 - 🔭 Currently working at **EdgeVerve Systems**  
