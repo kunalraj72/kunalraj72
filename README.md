@@ -1,6 +1,4 @@
-# Hi 👋, I'm Kunal Raj  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalraj72&label=Profile%20views&color=0e75b6&style=flat" alt="kunalraj72" /> </p>
+# Hi 👋, I'm Kunal Raj                                                                           <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalraj72&label=Profile%20views&color=0e75b6&style=flat" alt="kunalraj72" /> </p>
 
 🚀 Software Engineer | Backend Developer | Microservices | Cloud Enthusiast  
 
