@@ -34,7 +34,8 @@
 <!-- ----------- TECH STACK SECTION END------------ --> 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats-git-main.kunalraj72.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia)
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
