@@ -35,7 +35,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-git-main.kunalraj72.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kunalraj72&theme=algolia)
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
