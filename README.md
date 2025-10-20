@@ -34,12 +34,7 @@
 <!-- ----------- TECH STACK SECTION END------------ --> 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/kunalraj72">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalraj72&theme=algolia"/>
-</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
