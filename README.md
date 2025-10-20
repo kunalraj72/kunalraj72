@@ -34,8 +34,10 @@
 <!-- ----------- TECH STACK SECTION END------------ --> 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=kunalraj72&theme=algolia)
+<p align="center">
+<a href="https://github.com/kunalraj72">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunalraj72&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
